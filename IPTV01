@@ -1,0 +1,16 @@
+#EXTM3U  
+
+#EXTINF:-1,Das Erste HD ᵈᵉ
+http://kingtv.dyndns.tv:17898/Carolina1/Carolina1/94888
+
+#EXTINF:-1,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,CBS 
+http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
+
+#EXTINF:-1,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1,MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
